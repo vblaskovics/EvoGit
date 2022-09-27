@@ -8,3 +8,4 @@
 
 ## Develop only
 - Modify dev only
+- Modify dev only, remote
