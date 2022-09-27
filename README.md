@@ -1,4 +1,4 @@
 # EvoGit
 
-Modify readme file
-Modify again
+- Modify readme file
+- Modify again
